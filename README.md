@@ -1,6 +1,6 @@
-Working on this challenge has been an amazing learning experience. When I started, I was primarily comfortable with Python, HTML, and CSS. This challenge pushed me  beyond that. I had to teach myself a little JavaScript, learn how to work with Node.js, FastAPI (a python library), asynchronous programming, understand how APIs communicate, and debug issues across different layers of a system, etc. It wasn’t always easy, but the process taught me how to break down problems, read documentation more effectively, and persist through roadblocks.
+Working on this challenge has been an amazing learning experience. When I started, I was profficient in Python, HTML, CSS, and a little bit of bash. This challenge pushed me beyond everything I knew. I had to teach myself a little JavaScript, everything about containers and using Docker, FastAPI (a python library), asynchronous programming, understand how APIs communicate, and debug issues across different layers of a system, etc. It wasn’t always easy, but the process taught me how to break down problems, read documentation more effectively, and persist through roadblocks.
 
-Pros:
+What I Have So Far:
 1. Handles Transaction Requests
 The API successfully receives transaction requests from the mobile app and forwards them to the third-party service.
 2. Implements Basic Retry Logic
