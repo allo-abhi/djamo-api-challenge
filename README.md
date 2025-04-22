@@ -1,4 +1,4 @@
-Working on this challenge has been an amazing learning experience. When I started, I was primarily comfortable with Python, HTML, and CSS. This challenge pushed me  beyond that. I had to teach myself a little JavaScript, learn how to work with Node.js, understand how APIs communicate, and debug issues across different layers of a system. It wasn’t always easy, but the process taught me how to break down problems, read documentation more effectively, and persist through roadblocks. I’m proud of how much I’ve grown both technically and as a problem solver through this journey.
+Working on this challenge has been an amazing learning experience. When I started, I was primarily comfortable with Python, HTML, and CSS. This challenge pushed me  beyond that. I had to teach myself a little JavaScript, learn how to work with Node.js, FastAPI (a python library), asynchronous programming, understand how APIs communicate, and debug issues across different layers of a system, etc. It wasn’t always easy, but the process taught me how to break down problems, read documentation more effectively, and persist through roadblocks.
 
 Pros:
 1. Handles Transaction Requests
