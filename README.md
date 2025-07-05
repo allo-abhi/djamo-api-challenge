@@ -1,4 +1,4 @@
-When I started, I was proficient in Python, HTML, CSS, and a little bit of Bash. But this challenge pushed me far beyond what I already knew — it was a first for many things. I had to teach myself JavaScript, get comfortable with containers and Docker, use GitHub (this is actually my first repo!), learn FastAPI, dive into asynchronous programming, understand how APIs communicate, and debug issues across different layers of a system. It wasn’t always easy, but the process taught me how to break down complex problems, read documentation more effectively, and persist through roadblocks.
+When I started, I was proficient in Python. I had to teach myself JavaScript, get comfortable with containers and Docker, git, learn FastAPI, dive into asynchronous programming, understand how APIs communicate, and debug issues across different layers of a system. 
 
 What I Have So Far:
 1. Handles Transaction Requests
