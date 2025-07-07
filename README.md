@@ -13,12 +13,14 @@ As mentionned before, our partners have a number issues, and this one has its sh
 - it is supposed to call you back through a webhook -- but sometimes it doesn't
 - it has a status check API -- but they explicitely said they could block our services if we request it too often
 - it will time out (HTTP 504) from time to time, but sometimes the request actually will go through after a longer time (up to 120s).
+
 Your constraints
 Your API is consumed by a mobile application, and the experience needs to feel pleasant for the user. So you need to:
 
 - return a response as fast as possible
 - return the success / failure of the transaction as quickly as possible
-- Due to poor network connectivity, sometimes the mobile application will re-try to send the same request twice. You must detect it and only handle the request once.
+
+Due to poor network connectivity, sometimes the mobile application will re-try to send the same request twice. You must detect it and only handle the request once.
 
 You can start the project easily by running docker-compose up -d. This will start a mock for the 3rd party service and for the client application
 
